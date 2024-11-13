@@ -1,0 +1,16 @@
+[{
+  "name": "Siyambonga",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1731322812/siyambonga-removebg-preview_h4rquf.png"
+},
+{
+  "name": "Amphiwe",
+  "gender": "Female",
+  "deceased": "false"
+},
+{
+  "name": "Iviwe",
+  "gender": "Male",
+  "deceased": "false"
+}]

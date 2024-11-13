@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "671a5b62346254157d52a51b"
+  },
+  "name": "Mlindeli",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777825/Mlindeli_pic_qhjxlc.png"
+},
+{
+  "_id": {
+    "$oid": "671a5b62346254157d52a51c"
+  },
+  "name": "Ncomelo",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777800/Ncomi_pic_vdj6bp.png"
+},
+{
+  "_id": {
+    "$oid": "671a5b62346254157d52a51d"
+  },
+  "name": "Tholi",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777815/Tholi_pic_eqcibp.png"
+},
+{
+  "_id": {
+    "$oid": "671a5b62346254157d52a51e"
+  },
+  "name": "Nontombi",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777829/Nontombi_pic_j0y7cf.png"
+},
+{
+  "_id": {
+    "$oid": "671a5b62346254157d52a51f"
+  },
+  "name": "Siyanda",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777821/Siyanda_pic_srhuj7.png"
+},
+{
+  "_id": {
+    "$oid": "671a5b62346254157d52a520"
+  },
+  "name": "Nopasika",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777803/Passie_pic_qabcna.png"
+},
+{
+  "_id": {
+    "$oid": "671a5b62346254157d52a521"
+  },
+  "name": "Zandile",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777828/Zandi_pic_oune2y.png"
+}]

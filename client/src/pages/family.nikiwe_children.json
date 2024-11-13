@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "671a1cc3346254157d52a50f"
+  },
+  "name": "Lindelwa",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1731220141/malindi-Photoroom_suexdg.jpg"
+},
+{
+  "_id": {
+    "$oid": "671a1cc3346254157d52a510"
+  },
+  "name": "Thandiwe",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729764391/Thandiwe_pic_laabzg.png"
+},
+{
+  "_id": {
+    "$oid": "671a1cc3346254157d52a511"
+  },
+  "name": "Phathiswa",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729694132/family-tree/grand_children/Phathiswa_pic_pq48wd.png"
+},
+{
+  "_id": {
+    "$oid": "671a1cc3346254157d52a512"
+  },
+  "name": "Nqonqo",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729764391/Nqonqo_pic_oa1cy8.png"
+},
+{
+  "_id": {
+    "$oid": "671a1cc3346254157d52a513"
+  },
+  "name": "Mthetheleli",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729694133/family-tree/grand_children/Mthetheleli_pic_l5zcvw.png"
+},
+{
+  "_id": {
+    "$oid": "671a1cc3346254157d52a514"
+  },
+  "name": "Maponki",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1731236187/maponki-removebg-preview_gcv5xk.png"
+},
+{
+  "_id": {
+    "$oid": "671a1e06346254157d52a519"
+  },
+  "name": "Nobuntu",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729764782/Nobuntu_pic_cbf2vi.png"
+}]

@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Vuyokazi",
+        "gender": "female",
+        "deceased": "false"
+    },
+
+    {
+        "name": "Xhanti",
+        "gender": "male",
+        "deceased": "false"
+    },
+
+    {
+        "name": "Vukile",
+        "gender": "male",
+        "deceased": "false"
+    },
+
+    {
+        "name": "Bongani",
+        "gender": "male",
+        "deceased": "false"
+    },
+
+    {
+        "name": "Bonga",
+        "gender": "male",
+        "deceased": "false"
+    }
+
+]
+
+

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "671a5baf346254157d52a524"
+  },
+  "name": "Vuyiswa",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777822/Vuyiswa_pic_usssyf.png"
+},
+{
+  "_id": {
+    "$oid": "671a5baf346254157d52a525"
+  },
+  "name": "Simphiwe",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777793/Simphiwe_pic_m8fitr.png"
+},
+{
+  "_id": {
+    "$oid": "671a5baf346254157d52a526"
+  },
+  "name": "Buntu",
+  "gender": "Male",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777855/Buntu_pic_e25vfk.png"
+},
+{
+  "_id": {
+    "$oid": "671a5baf346254157d52a527"
+  },
+  "name": "Sandisiwe",
+  "gender": "Female",
+  "deceased": "false",
+  "image": "https://res.cloudinary.com/dhcsne1pn/image/upload/v1729777828/Sandisiwe_pic_lz2rbj.png"
+}]
