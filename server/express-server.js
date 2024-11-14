@@ -5,7 +5,9 @@ import cors from "cors";
 const app = express();
 const PORT = process.env.PORT || 5050;
 
-app.use(cors());
+app.use(cors({
+  origin: 'https://phetshiwe-lineage.netlify.app' // replace with your actual Netlify domain
+}));
 app.use(express.json());
 
 //Route to get children data
