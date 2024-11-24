@@ -14,7 +14,7 @@ const ChildDetails = () => {
 
     const fetchChildrenData = async () => {
       try {
-        const response = await fetch(`http://localhost:5050/api/family/${name_children}`);
+        const response = await fetch(`https://mernback-6-u65j.onrender.com/api/family/${name_children}`);
         if (!response.ok) {
           throw new Error('Error fetching children data');
         }
