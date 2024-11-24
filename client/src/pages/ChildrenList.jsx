@@ -9,7 +9,7 @@ const ChildrenList = () => {
   useEffect(() => {
     const fetchMyChildrenData = async () => {
       try {
-        const response = await fetch('http://localhost:5050/api/family/children');
+        const response = await fetch('https://mernback-6-u65j.onrender.com/api/family/children');
         const data = await response.json();
         setChildren(data);
       } catch (error) {
